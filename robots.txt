@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamiltonconcretepaving.co.nz/sitemap.xml
